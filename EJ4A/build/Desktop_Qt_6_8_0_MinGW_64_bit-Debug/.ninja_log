@@ -1,0 +1,20 @@
+# ninja log v6
+25	131	7515186918409417	C:/Users/super/OneDrive/Documentos/EJ4A/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f8a491625951a527
+85	734	7515186925459409	build.ninja	f0ab1d40bbd61fa0
+132	964	7515186403489442	EJ4A_autogen/mocs_compilation.cpp	de968a78996e14d5
+132	964	7515186403489442	EJ4A_autogen/timestamp	de968a78996e14d5
+132	964	7515186403489442	C:/Users/super/OneDrive/Documentos/EJ4A/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ4A_autogen/mocs_compilation.cpp	de968a78996e14d5
+965	3125	7515186404469434	CMakeFiles/EJ4A.dir/EJ4A_autogen/mocs_compilation.cpp.obj	1ed434952850e20a
+132	964	7515186403489442	C:/Users/super/OneDrive/Documentos/EJ4A/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ4A_autogen/timestamp	de968a78996e14d5
+810	2361	7514478030946997	CMakeFiles/EJ4A.dir/main.cpp.obj	400117af17497b33
+2361	2534	7514478046456999	EJ4A.exe	f0195d7602df8e72
+983	3122	7515186404649409	CMakeFiles/EJ4A.dir/comunicacion.cpp.obj	1519aca73897278e
+132	878	7515186925459409	build.ninja	f0ab1d40bbd61fa0
+21	103	7515186926669453	C:/Users/super/OneDrive/Documentos/EJ4A/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f8a491625951a527
+113	859	7515186927590088	EJ4A_autogen/timestamp	de968a78996e14d5
+113	859	7515186927590088	EJ4A_autogen/mocs_compilation.cpp	de968a78996e14d5
+113	859	7515186927590088	C:/Users/super/OneDrive/Documentos/EJ4A/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ4A_autogen/timestamp	de968a78996e14d5
+113	859	7515186927590088	C:/Users/super/OneDrive/Documentos/EJ4A/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ4A_autogen/mocs_compilation.cpp	de968a78996e14d5
+860	2651	7515186935049448	CMakeFiles/EJ4A.dir/main.cpp.obj	400117af17497b33
+2652	3141	7515186952969429	EJ4A.exe	1c3084c8b90df1a1
+21	94	7515186988719458	C:/Users/super/OneDrive/Documentos/EJ4A/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/cmake.verify_globs	f8a491625951a527

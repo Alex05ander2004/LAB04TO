@@ -1,0 +1,9 @@
+# ninja log v6
+11	1160	7515526943796600	EJ2PROP_autogen/timestamp	e2cdb9e986c91752
+11	1160	7515526943796600	EJ2PROP_autogen/mocs_compilation.cpp	e2cdb9e986c91752
+11	1160	7515526943796600	C:/Users/super/OneDrive/Documentos/EJ2PROP/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ2PROP_autogen/timestamp	e2cdb9e986c91752
+11	1160	7515526943796600	C:/Users/super/OneDrive/Documentos/EJ2PROP/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ2PROP_autogen/mocs_compilation.cpp	e2cdb9e986c91752
+1168	4580	7515526945039135	CMakeFiles/EJ2PROP.dir/EJ2PROP_autogen/mocs_compilation.cpp.obj	57a301fe870c2575
+1185	4723	7515526945219532	CMakeFiles/EJ2PROP.dir/MainWindow.cpp.obj	2bdc1bad2271ae15
+1178	5708	7515526945144434	CMakeFiles/EJ2PROP.dir/main.cpp.obj	ae761d9f7d790aea
+5708	6185	7515526990448017	EJ2PROP.exe	51d5dd841dfeb60c

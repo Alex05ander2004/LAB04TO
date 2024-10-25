@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c04f7fc4d8839027de62.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EJ2PROP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EJ2PROP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EJ2PROP-Debug-09cd5d7bbaf0f296798b.json",
+					"name" : "EJ2PROP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EJ2PROP_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EJ2PROP_autogen-Debug-0478b81a599a79b112b3.json",
+					"name" : "EJ2PROP_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "EJ2PROP_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EJ2PROP_autogen_timestamp_deps-Debug-fd2d0c11d397abe163d9.json",
+					"name" : "EJ2PROP_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/super/OneDrive/Documentos/EJ2PROP/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/super/OneDrive/Documentos/EJ2PROP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

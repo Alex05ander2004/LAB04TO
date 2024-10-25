@@ -1,0 +1,14 @@
+# ninja log v6
+10	1036	7515524215786653	EJ1PROP_autogen/timestamp	da1771a970b3dc86
+10	1036	7515524215786653	EJ1PROP_autogen/mocs_compilation.cpp	da1771a970b3dc86
+10	1036	7515524215786653	C:/Users/super/OneDrive/Documentos/EJ1PROP/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ1PROP_autogen/timestamp	da1771a970b3dc86
+10	1036	7515524215786653	C:/Users/super/OneDrive/Documentos/EJ1PROP/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ1PROP_autogen/mocs_compilation.cpp	da1771a970b3dc86
+1043	4692	7515524217106692	CMakeFiles/EJ1PROP.dir/EJ1PROP_autogen/mocs_compilation.cpp.obj	ad2dcdc6aa2bcf9d
+1058	4807	7515524217246705	CMakeFiles/EJ1PROP.dir/MainWindow.cpp.obj	79f14531cfa9ed88
+45	280	7515524805486690	EJ1PROP_autogen/timestamp	da1771a970b3dc86
+45	280	7515524805486690	EJ1PROP_autogen/mocs_compilation.cpp	da1771a970b3dc86
+45	280	7515524805486690	C:/Users/super/OneDrive/Documentos/EJ1PROP/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ1PROP_autogen/timestamp	da1771a970b3dc86
+45	280	7515524805486690	C:/Users/super/OneDrive/Documentos/EJ1PROP/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/EJ1PROP_autogen/mocs_compilation.cpp	da1771a970b3dc86
+281	2323	7515524807836696	CMakeFiles/EJ1PROP.dir/main.cpp.obj	d6cce13a0cec6fe0
+288	2636	7515524807916697	CMakeFiles/EJ1PROP.dir/MainWindow.cpp.obj	79f14531cfa9ed88
+2636	2950	7515524831396687	EJ1PROP.exe	5fadb1ae729458c5
